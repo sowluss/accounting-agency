@@ -240,3 +240,12 @@ p {
 #contact .contact-form .form-group {
   margin: 0.75rem;
 }
+
+#contact .contact-form label {
+  display: block;
+}
+
+#contact .contact-form input,
+#contact .contact-form textarea {
+  width: 100%;
+}
